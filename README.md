@@ -1,7 +1,7 @@
 # trabalho-final-web
  “Trabalho final da disciplina de WEB”
 # Nome_da_Equipe
-OS VAGABAS
+Os Bola 8
 ### Integrantes
 [comment]: <p>
 - [Davi Gomes Mendes](https://github.com/DaviGms5)
